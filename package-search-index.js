@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"ru.yoomoney.tech.dbqueue.api"},{"l":"ru.yoomoney.tech.dbqueue.api.impl"},{"l":"ru.yoomoney.tech.dbqueue.config"},{"l":"ru.yoomoney.tech.dbqueue.config.impl"},{"l":"ru.yoomoney.tech.dbqueue.dao"},{"l":"ru.yoomoney.tech.dbqueue.settings"}]

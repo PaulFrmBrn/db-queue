@@ -1,0 +1,6 @@
+ru.yoomoney.tech.dbqueue.api
+ru.yoomoney.tech.dbqueue.api.impl
+ru.yoomoney.tech.dbqueue.config
+ru.yoomoney.tech.dbqueue.config.impl
+ru.yoomoney.tech.dbqueue.dao
+ru.yoomoney.tech.dbqueue.settings
